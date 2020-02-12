@@ -1,2 +1,2 @@
-# poolManager
-Simple pool manager for Unity
+# SimplePool
+Simple object poolfor Unity.
